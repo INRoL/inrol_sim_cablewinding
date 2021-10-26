@@ -8,7 +8,7 @@ Tested environment: Windows 10 64bit 19041.1165, Visual Studio 15, OpenGL 3.3.
 3. Install glm (0.9.9): https://github.com/g-truc/glm
 4. Install glfw (3.3): https://www.glfw.org/download
 \
-Please download above prerequisites and add the header files and lib files in `CMakelists.txt` and `include/prcompiled.h` properly.
+Please download above prerequisites and add the header files and lib files in `CMakelists.txt` and `include/precompiled.h` properly.
 
 ## Execution
 The source can be compiled using MSVC compiler.
